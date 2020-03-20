@@ -6,7 +6,7 @@
       <span>Saeed Reza Kheradpisheh</span>
       <br><br>
       <span style="font-weight:bold">Webpage:</span> 
-      <a href="https://alirezajvh.github.io/github-page-test/">Advanced Programming 2020</a> 
+      <a href="https://srkh.github.io/AP-CS-SBU/">Advanced Programming 2020</a> 
       <br><br>
       <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a>
     </th>

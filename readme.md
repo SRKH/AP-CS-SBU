@@ -37,7 +37,7 @@
 ### **Index:**
 - [TextBooks](#TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
-  1. Lecture 1: [Algorithm and  Pseudocode  ](#Algorithm and  Pseudocode) 
+  1. Lecture 1: [Algorithm and  Pseudocode](#Algorithm and  Pseudocode) 
   2. Lecture 2: [Variables](#Introduction)
   3. Lecture 3: [The if Statement](#Empirical-Risk-Minimization)
   4. Lecture 4: [LOOPS](#PAC-Learning)
@@ -51,7 +51,6 @@
 - [Exercise](#Exercise)
 <br>
 ...
-<br>
 - [Projects](#Projects)
 <br>
 ...

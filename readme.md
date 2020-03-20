@@ -37,7 +37,7 @@
 ### **Index:**
 - [TextBooks](#TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
-  1. Lecture 1: [Algorithm and  Pseudocode](#Algorithm and  Pseudocode) 
+  1. Lecture 1: [Algorithm and  Pseudocode](#Algorithm-and-Pseudocode) 
   2. Lecture 2: [Variables](#Introduction)
   3. Lecture 3: [The if Statement](#Empirical-Risk-Minimization)
   4. Lecture 4: [LOOPS](#PAC-Learning)
@@ -49,11 +49,9 @@
 - [Class Time and Location](#Class-Time-and-Location)
   
 - [Exercise](#Exercise)
-<br>
-...
+
 - [Projects](#Projects)
-<br>
-...
+
 
 ## <a name="TextBooks"></a>TextBooks:
 
@@ -70,7 +68,7 @@
 
 ## <a name="Slides-and-Papers"></a>Slides and Papers:
 
-1. ### <a name="Algorithm and  Pseudocode"></a>Algorithm and  Pseudocode  
+1. ### <a name="Algorithm-and-Pseudocode"></a>Algorithm and  Pseudocode  
 
 
 - Slide: [Algorithm and  Pseudocode ](./slides/Lecture_1.pdf)  <br>

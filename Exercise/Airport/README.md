@@ -20,3 +20,16 @@ Now you need to design an OOP (object-oriented programming) model that provides 
 **Note** : Only fields are needed to be written for each class (methods are not required) and it is necessary to use inheritance.
 
 
+We wrote the Airport class and the rest is up to you :)
+
+```
+public class Airplane {
+
+ String airplaneName;  // e.g. "777X";
+ int capacity;         // e.g. 500
+ String companyName;   // e.g. "Boeing";
+ enum airplaneType {
+  Fighter, Passenger;
+ }
+}
+```

@@ -10,7 +10,7 @@
       <br><br>
       <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a>
     </th>
-    <th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='140' width='140' /></th>
+    <th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='140' width='140'/></th>
   </tr>
   <tr>
     <td colspan="4"><span style="font-weight:bold">Teaching Assistants:</span></td>
@@ -25,7 +25,7 @@
     <td>Alireza Javaheri</td>
     <td>Mohammad Nori</td>
     <td>Mohammad Naraghi</td>
-    <td>Navid Kashi</td>
+    <td>Morteza Rastegar</td>
   </tr>
    <tr>
    <td>Ali Saleh</td>

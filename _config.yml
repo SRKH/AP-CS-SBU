@@ -1,2 +1,8 @@
 theme: jekyll-theme-cayman
 title: Advanced Programming (Spring 2020)
+footer:
+  links:
+    - label: "Home"
+       url: "https://srkh.github.io/AP-CS-SBU/"
+    - label: "Exercise"
+       url: "https://srkh.github.io/AP-CS-SBU/Exercise/"

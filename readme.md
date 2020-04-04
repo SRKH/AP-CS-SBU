@@ -38,11 +38,11 @@
 - [TextBooks](#TextBooks)
 - [Slides and Papers](#Slides-and-Papers)
   1. Lecture 1: [Algorithm and  Pseudocode](#Algorithm-and-Pseudocode) 
-  2. Lecture 2: [Variables](#Introduction)
-  3. Lecture 3: [The if Statement](#Empirical-Risk-Minimization)
-  4. Lecture 4: [LOOPS](#PAC-Learning)
-  5. Lecture 5: [METHODS](#The-Bias-Complexity-Tradeoff)  
-  6. Lecture 6: [ARRAYS and ARRAY LISTS](#The-VC-Dimension)
+  2. Lecture 2: [Variables](#Variables)
+  3. Lecture 3: [The if Statement](#The-if-Statement)
+  4. Lecture 4: [LOOPS](#LOOPS)
+  5. Lecture 5: [METHODS](#METHODS)  
+  6. Lecture 6: [ARRAYS and ARRAY LISTS](#ARRAYS-and-ARRAY-LISTS")
   <br>
   ...
   
@@ -80,7 +80,7 @@
    - Slide: [Variables ](./slides/Lecture_02.pdf)  <br>
    <br>
  
-3. ### <a name="The if Statement"></a>The if Statement  
+3. ### <a name="The-if-Statement"></a>The if Statement  
 
     
    - Slide: [The if Statement ](./slides/Lecture_03.pdf)  <br>
@@ -99,7 +99,7 @@
    - Slide: [METHODS ](./slides/Lecture_05.pdf)  <br>
    <br>
    
-6. ###   <a name="ARRAYS and ARRAY LISTS"></a>ARRAYS and ARRAY LISTS
+6. ###   <a name="ARRAYS-and-ARRAY-LISTS"></a>ARRAYS and ARRAY LISTS
 
 
    

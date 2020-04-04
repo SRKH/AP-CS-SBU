@@ -25,9 +25,9 @@ We wrote the Airport class and the rest is up to you :)
 ```
 public class Airplane {
 
- String airplaneName;  // e.g. "777X";
+ String airplaneName;  // e.g. "777X"
  int capacity;         // e.g. 500
- String companyName;   // e.g. "Boeing";
+ String companyName;   // e.g. "Boeing"
  enum airplaneType {
   Fighter, Passenger;
  }

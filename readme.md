@@ -48,7 +48,7 @@
   
 - [Class Time and Location](#Class-Time-and-Location)
   
-- [Exercise](#Exercise)
+- [Exercise](https://srkh.github.io/AP-CS-SBU/Exercise/)
 
 - [Projects](#Projects)
 

@@ -23,13 +23,15 @@ Now you need to design an OOP (object-oriented programming) model that provides 
 We wrote the Airport class and the rest is up to you :)
 
 ```
-public class Airplane {
-
- String airplaneName;  // e.g. "777X"
- int capacity;         // e.g. 500
- String companyName;   // e.g. "Boeing"
- enum airplaneType {
+enum AirplaneType {
   Fighter, Passenger;
  }
+ 
+public class Airplane {
+
+ private String airplaneName;  // e.g. "777X"
+ private int capacity;         // e.g. 500
+ private String companyName;   // e.g. "Boeing"
+ private AirplaneType type;    // e.g. AirplaneType.Passenger
 }
 ```

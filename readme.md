@@ -17,7 +17,7 @@
   </tr>
   <tr>
     <td>Shayan Darvish</td>
-    <td>Ali Mirlo</td>
+    <td>Ali Mirlou</td>
     <td>Hossein Zamanian</td>
     <td>Navid Kashi</td>
   </tr>

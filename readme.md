@@ -84,7 +84,7 @@
 3. ### <a name="The-if-Statement"></a>The if Statement  
 
     
-   - Slide: [The if Statement ](./slides/Lecture_03.pdf)  
+   - Slide: [The if Statement ](./slides/Lecture_03.pdf)  <br>
     <br>
    
 4. ### <a name="LOOPS"></a>LOOPS
@@ -94,7 +94,7 @@
 
 5. ### <a name="METHODS"></a>METHODS  
    
-   - Slide: [METHODS ](./slides/Lecture_05.pdf)  
+   - Slide: [METHODS ](./slides/Lecture_05.pdf)  <br>
    <br>
    
 6. ###   <a name="ARRAYS-and-ARRAY-LISTS"></a>ARRAYS and ARRAY LISTS
@@ -102,11 +102,11 @@
    - Slide: [ARRAYS and ARRAY LISTS ](./slides/Lecture_06.pdf) 
     <br>
 
-
 7. ###  <a name="OBJECTS-and-CLASSES"></a>OBJECTS and CLASSES
 
     - Slide: [OBJECTS and CLASSES](./slides/Lecture_07.pdf)
     <br>
+    
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
 Sunday and Tuesday 10:00-12:00 PM (Spring 2020)
 

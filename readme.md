@@ -10,7 +10,7 @@
       <br><br>
       <a href="http://en.sbu.ac.ir/">Shahid Beheshti University</a>
     </th>
-    <th colspan="2"><img src=".\Images\HH.jpg" alt="" border='3' height='140' width='140'/></th>
+    <th colspan="2"><img src="./images/SRKH.jpg" alt="" border='3' height='140' width='140'/></th>
   </tr>
   <tr>
     <td colspan="4"><span style="font-weight:bold">Teaching Assistants:</span></td>
@@ -102,9 +102,11 @@
    - Slide: [ARRAYS and ARRAY LISTS ](./slides/Lecture_06.pdf) 
     <br>
 
+
 7. ###  <a name="OBJECTS-and-CLASSES"></a>OBJECTS and CLASSES
 
     - Slide: [OBJECTS and CLASSES](./slides/Lecture_07.pdf)
+    <br>
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
 Sunday and Tuesday 10:00-12:00 PM (Spring 2020)
 

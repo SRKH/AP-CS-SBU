@@ -43,6 +43,7 @@
   4. Lecture 4: [LOOPS](#LOOPS)
   5. Lecture 5: [METHODS](#METHODS)  
   6. Lecture 6: [ARRAYS and ARRAY LISTS](#ARRAYS-and-ARRAY-LISTS")
+  7. Lecture 7: [OBJECTS and CLASSES](#OBJECTS-and-CLASSES)
   <br>
   ...
   
@@ -71,41 +72,39 @@
 1. ### <a name="Algorithm-and-Pseudocode"></a>Algorithm and  Pseudocode  
 
 
-- Slide: [Algorithm and  Pseudocode ](./slides/Lecture_1.pdf)  <br>
+- Slide: [Algorithm and  Pseudocode ](./slides/Lecture_1.pdf) 
 <br>
+ 
  
 2. ### <a name="Variables"></a>Variables  
   
-
-   - Slide: [Variables ](./slides/Lecture_02.pdf)  <br>
+   - Slide: [Variables ](./slides/Lecture_02.pdf)  
    <br>
  
 3. ### <a name="The-if-Statement"></a>The if Statement  
 
     
-   - Slide: [The if Statement ](./slides/Lecture_03.pdf)  <br>
+   - Slide: [The if Statement ](./slides/Lecture_03.pdf)  
     <br>
    
 4. ### <a name="LOOPS"></a>LOOPS
 
-
-   - Slide: [LOOPS ](./slides/Lecture_04.pdf)  <br>
+   - Slide: [LOOPS ](./slides/Lecture_04.pdf) 
    <br>
 
 5. ### <a name="METHODS"></a>METHODS  
-
-
    
-   - Slide: [METHODS ](./slides/Lecture_05.pdf)  <br>
+   - Slide: [METHODS ](./slides/Lecture_05.pdf)  
    <br>
    
 6. ###   <a name="ARRAYS-and-ARRAY-LISTS"></a>ARRAYS and ARRAY LISTS
 
-
-   
-   - Slide: [ARRAYS and ARRAY LISTS ](./slides/Lecture_06.pdf)  <br>
+   - Slide: [ARRAYS and ARRAY LISTS ](./slides/Lecture_06.pdf) 
     <br>
 
+7. ###  <a name="OBJECTS-and-CLASSES"></a>OBJECTS and CLASSES
+
+    - Slide: [OBJECTS and CLASSES](./slides/Lecture_07.pdf)
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
 Sunday and Tuesday 10:00-12:00 PM (Spring 2020)
 

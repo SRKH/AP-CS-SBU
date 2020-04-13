@@ -26,6 +26,7 @@ This task must have all the properties of the normal task, and it must also stor
 3) **Check list**
 
 This task must have all the properties of the normal task and there must be a list of tasks in it as a checklist.
+
 *You can also set deadline for this task
 
 ### **Bonus**

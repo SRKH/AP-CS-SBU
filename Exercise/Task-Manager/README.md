@@ -15,14 +15,15 @@ your code need to have this properties:
 
 ### **Different Tasks**
 
-1) Normal task:
+1) **Normal task**
+
 This task must include a title, description and a variable that specifies the task status.
 
-2) Task with time:
+2) **Task with time**
 
 This task must have all the properties of normal task, and it must also store time as the date of the task.
 
-3) Check list
+3) **Check list**
 
 This task must have all the properties of the normal task and there must be a list of tasks in it as a checklist.
 * You can also set deadline for this task

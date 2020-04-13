@@ -49,7 +49,7 @@
   
 - [Class Time and Location](#Class-Time-and-Location)
   
-- [Exercise](https://srkh.github.io/AP-CS-SBU/Exercise/)
+- [Exercise](#Exercise)
 
 - [Projects](#Projects)
 
@@ -107,6 +107,14 @@
     - Slide: [OBJECTS and CLASSES](./slides/Lecture_07.pdf)
     <br>
     
+## <a name="Exercise"></a> Exercises
+    
+1. [Deserialization]()
+2. [Serialization]()
+3. [Airport](https://srkh.github.io/AP-CS-SBU/Exercise/Airport)
+4. [Task Manager]()
+    
+
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:
 Sunday and Tuesday 10:00-12:00 PM (Spring 2020)
 

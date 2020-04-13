@@ -112,7 +112,7 @@
 1. [Deserialization]()
 2. [Serialization]()
 3. [Airport](https://srkh.github.io/AP-CS-SBU/Exercise/Airport)
-4. [Task Manager]()
+4. [Task Manager](https://srkh.github.io/AP-CS-SBU/Exercise/Task-Manager)
     
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:

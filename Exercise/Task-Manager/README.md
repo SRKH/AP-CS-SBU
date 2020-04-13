@@ -21,7 +21,7 @@ This task must include a title, description and a variable that specifies the ta
 
 2) **Task with time**
 
-This task must have all the properties of normal task, and it must also store time as the date of the task.
+This task must have all the properties of the normal task, and it must also store time as the date of the task.
 
 3) **Check list**
 

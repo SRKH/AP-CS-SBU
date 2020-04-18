@@ -44,6 +44,7 @@
   5. Lecture 5: [METHODS](#METHODS)  
   6. Lecture 6: [ARRAYS and ARRAY LISTS](#ARRAYS-and-ARRAY-LISTS")
   7. Lecture 7: [OBJECTS and CLASSES](#OBJECTS-and-CLASSES)
+  8. Lecture 8: [INHERITANCE](#INHERITANCE)
   <br>
   ...
   
@@ -105,6 +106,10 @@
 7. ###  <a name="OBJECTS-and-CLASSES"></a>OBJECTS and CLASSES
 
     - Slide: [OBJECTS and CLASSES](./slides/Lecture_07.pdf)
+    <br>
+    
+8. ### <a name="INHERITANCE"></a>INHERITANCE
+    -Slide: [INHERITANCE](./slides/Lecture_08.pdf)
     <br>
     
 ## <a name="Exercise"></a> Exercises

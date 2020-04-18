@@ -45,6 +45,7 @@
   6. Lecture 6: [ARRAYS and ARRAY LISTS](#ARRAYS-and-ARRAY-LISTS")
   7. Lecture 7: [OBJECTS and CLASSES](#OBJECTS-and-CLASSES)
   8. Lecture 8: [INHERITANCE](#INHERITANCE)
+  9. Lecture 9: [INPUT/OUTPUT](#INPUT_OUTPUT)
   <br>
   ...
   
@@ -109,15 +110,16 @@
     <br>
     
 8. ### <a name="INHERITANCE"></a>INHERITANCE
-    -Slide: [INHERITANCE](./slides/Lecture_08.pdf)
+    - Slide: [INHERITANCE](./slides/Lecture_08.pdf)
     <br>
+
+9. ### <a name="INPUT_OUTPUT"></a>INPUT/OUTPUT
+    - Slide: [INPUT_OUTPUT](./slides/Lecture_09.pdf)
     
 ## <a name="Exercise"></a> Exercises
     
-1. [Deserialization]()
-2. [Serialization]()
-3. [Airport](https://srkh.github.io/AP-CS-SBU/Exercise/Airport)
-4. [Task Manager](https://srkh.github.io/AP-CS-SBU/Exercise/Task-Manager)
+1. [Airport](https://srkh.github.io/AP-CS-SBU/Exercise/Airport)
+2. [Task Manager](https://srkh.github.io/AP-CS-SBU/Exercise/Task-Manager)
     
 
 ## <a name="Class-Time-and-Location"></a>Class Time and Location:

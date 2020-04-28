@@ -30,7 +30,24 @@ for example, the size of the rows of the table above will be 4 + 100 + 100 + 10 
 
 A visual example of this schema is shown in figure 1. A sample of resulting table of this example schema is shown in figure 2.
 
-*(TODO add figures)*
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/SRKH/AP-CS-SBU/raw/exercise-4/Exercise/Mini-Database/database-schema-example.png" alt="Database Schema Example" height="150"/>
+    </td>
+    <td>
+      <img src="https://github.com/SRKH/AP-CS-SBU/raw/exercise-4/Exercise/Mini-Database/database-table-example.png" alt="Database Table Example" height="130"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      Figure 1
+    </td>
+    <td>
+      Figure 2
+    </td>
+  </tr>
+</table>
 
 ## Submission Details
 

@@ -51,7 +51,7 @@
 
 - [Class Time and Location](#Class-Time-and-Location)
 
-- [Exercise](#Exercise)
+- [Exercises](#exercises)
 
 - [Projects](#Projects)
 
@@ -115,8 +115,10 @@
 
 ## Exercises
 
-1. [Airport](https://srkh.github.io/AP-CS-SBU/Exercise/Airport)
-2. [Task Manager](https://srkh.github.io/AP-CS-SBU/Exercise/Task-Manager)
+1. Serialization and Deserialization
+2. [Airport](/Exercise/Airport)
+3. [Task Manager](/Exercise/Task-Manager)
+4. [Mini Database](/Exercise/Mini-Database)
 
 
 ## Class Time and Location

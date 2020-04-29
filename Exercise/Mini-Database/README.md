@@ -80,7 +80,7 @@ It should receive a table name and some data, and should do the following things
 
   1) Validate that the given data conforms to the table schema,
 
-  2) Serialize and insert the given data in the `db` file of the table folder.
+  2) Serialize and insert the given data in the first empty row of `db` file of the table folder, or at the end if none exists.
      It should write the data **sequentially**; so for example, in the `db` file of the example table above, the first 218 bytes will be the first row, the second 218 bytes will be the second row and so on.
      Note that all rows of a table have the same size (sum of column sizes).
 
@@ -91,10 +91,23 @@ It should receive a table name and some data, and should do the following things
      *(TODO explain why this is needed)*
 
 * `update`:
-*(TODO)*
+It should receive a table name, a primary key and some data, and should do the following things:
+
+  1) Validate that the given data conforms to the table schema,
+
+  2) Find the position of data with the given primary key in the `db` file,
+
+  3) Update the row with the given data.
 
 * `delete`:
-*(TODO)*
+It should receive a table name and a primary key, and should do the following things:
+
+  1) Find the position of data with the given primary key in the `db` file,
+
+  2) Replace the whole data of that row with 0,
+
+  3) Delete the index information of that row from the `index` file.
+     Note that `create` must try to fill these holes in the file with new rows whenever possible, so you may keep a reference of these empty blocks for better performance.
 
 * `search`:
 *(TODO)*

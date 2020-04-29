@@ -49,12 +49,6 @@ A visual example of this schema is shown in figure 1. A sample of resulting tabl
   </tr>
 </table>
 
-## Submission Details
-
-This exercise consists of **two phases**, each with their own deadline, and you should submit different components of this task in each of them.
-
-*(TODO explain exactly what they should submit for each phase)*
-
 ## Components
 
 Your program needs to have the following components:
@@ -84,14 +78,14 @@ It should receive a table name and some data, and should do the following things
      It should write the data **sequentially**; so for example, in the `db` file of the example table above, the first 218 bytes will be the first row, the second 218 bytes will be the second row and so on.
      Note that all rows of a table have the same size (sum of column sizes).
 
-     *(TODO explain the optional db file-splitting for better performance)*
+     For better performance, in Windows, you can use split the `db` file by a fixed maximum size, and save the name of the file which a row is stored in, in the `index` file.
 
   3) In `index` file of the table folder, write **the primary key of the row** and **the exact position of it's data in the `db` file**.
 
-     *(TODO explain why this is needed)*
+     This file is required because without it, you will need to iterate over all of the `db` file for each command, and this would be a bad idea if we had many rows. Instead, we can quickly iterate over a small index file very fast, and if we have a lot of memory, we can even load the `index` file in a charming data structure like a red-black tree.
 
 * `update`:
-It should receive a table name, a primary key and some data, and should do the following things:
+It should receive a **table name**, a **primary key** and **some data**, and should do the following things:
 
   1) Validate that the given data conforms to the table schema,
 
@@ -100,7 +94,7 @@ It should receive a table name, a primary key and some data, and should do the f
   3) Update the row with the given data.
 
 * `delete`:
-It should receive a table name and a primary key, and should do the following things:
+It should receive a **table name** and a **primary key**, and should do the following things:
 
   1) Find the position of data with the given primary key in the `db` file,
 
@@ -110,11 +104,15 @@ It should receive a table name and a primary key, and should do the following th
      Note that `create` must try to fill these holes in the file with new rows whenever possible, so you may keep a reference of these empty blocks for better performance.
 
 * `search`:
-*(TODO)*
+It should receive a **table name** and a **range** or an **array of primary keys**, and should do the following things:
+
+  1) Find the positions of datas with the given primary keys in the `db` file,
+
+  2) Deserialize data and return it.
 
 ### User Interface
 
-A simple menu needs to be shown to the user in the terminal, asking for an input command.
+A simple text needs to be shown to the user in the terminal, asking for an input command.
 
 Commands are **JSON strings**, so your program needs to parse JSON to understand what the user wants.
 
@@ -139,17 +137,32 @@ If given a primary key, the user expects **one object* of that table, which has 
 
 If given a number of results, the user expects **the first that number of objects** of the table to be printed in the terminal, in a **JSON list format**. The order of the objects must be the order which they have in the `db` file.
 
-*(TODO command JSON specification)*
+You must document your program's command inputs.
 
 <a name="footnote1">*</a> *If the given data did not conform to the table schema, you should print an appropriate error in the terminal.*
+
+## Submission Details
+
+This exercise consists of **two phases**, each with their own deadline, and you should submit different components of this task in each of them.
+
+### Phase 1: Engine component
+  - Serialization and deserialization method
+  - Entity validation
+  - Insert data
+  - Search data
+
+### Phase 2: User interface
+  - JSON serialization and deserialization
+  - Command documentation
+  - Integrate user interface with the engine
 
 ## ⏳ Deadline
 
 ### Phase 1
-May 5th, 2020
+May 12th, 2020
 
 ### Phase 2
-May 12th, 2020
+May 16th, 2020
 
 ## Bonus Task
 

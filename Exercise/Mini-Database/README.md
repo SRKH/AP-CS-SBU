@@ -166,4 +166,4 @@ May 16th, 2020
 
 ## Bonus Task
 
-* The `search` functionality may receive a column name **other than the primary key** and a value, and return **all** the objects which have the given value for the given column name. *(TODO give an example of such a query)*
+* The `search` functionality may receive a column name **other than the primary key** and a value, and return **all** the objects which have the given value for the given column name.

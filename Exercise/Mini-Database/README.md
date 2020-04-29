@@ -1,4 +1,4 @@
-# Mini-Database
+# Mini Database
 
 ## Introduction
 
@@ -19,7 +19,7 @@ A table is similar to a **class** in Object-Oriented programming where each colu
 
 ### Primary Key
 
-*(TODO primary key definition)*
+A primary key of each table is a specific **column** that **uniquely** identifies each row. It is usually an **incremental integer**; for example, the primary key of the first row of the table will be 1, the second row will be 2, and so on.
 
 ### Schema
 The definition of the columns of each table. Mainly, it defines the **name**, **type** and **size** of each column but there are many other attributes it can define for a column, which we will explain later;

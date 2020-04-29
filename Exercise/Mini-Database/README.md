@@ -131,13 +131,13 @@ The user gives a **table name**, a **primary key** and **some data** and expects
 The user gives a **table name** and a **primary key** and expects **one object** of that table, which has the given primary key, to be deleted.
 
 #### Search
-The user gives a table name and either a **primary key** or a **number of results**.
+The user gives a table name and a **range** or an **array of primary keys**.
 
 If given a primary key, the user expects **one object* of that table, which has the given primary key, to be printed in the terminal in a **JSON object format**.
 
-If given a number of results, the user expects **the first that number of objects** of the table to be printed in the terminal, in a **JSON list format**. The order of the objects must be the order which they have in the `db` file.
+If given a range, the user expects **all of the objects** where **their primary key fall in the range** to be printed in the terminal, in a **JSON list format**. The order of the objects must be the order which they have in the `db` file.
 
-You must document your program's command inputs.
+**You must document your program's command inputs.**
 
 <a name="footnote1">*</a> *If the given data did not conform to the table schema, you should print an appropriate error in the terminal.*
 

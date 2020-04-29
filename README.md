@@ -116,16 +116,13 @@
 ## Exercises
 
 1. Serialization and Deserialization
-2. [Airport](/Exercise/Airport)
-3. [Task Manager](/Exercise/Task-Manager)
-4. [Mini Database](/Exercise/Mini-Database)
+2. [Airport](./Exercise/Airport)
+3. [Task Manager](./Exercise/Task-Manager)
+4. [Mini Database](./Exercise/Mini-Database)
 
 
 ## Class Time and Location
-Sunday and Tuesday 10:00-12:00 PM (Spring 2020)
-
-<br>
+Sundays and Tuesdays, 10:00-12:00 AM (Spring 2020)
 
 ## Projects
 Projects are programming assignments that cover the topic of this course. 
-

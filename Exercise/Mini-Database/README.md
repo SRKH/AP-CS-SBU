@@ -33,10 +33,10 @@ A visual example of this schema is shown in figure 1. A sample of resulting tabl
 <table>
   <tr>
     <td>
-      <img src="https://github.com/SRKH/AP-CS-SBU/raw/exercise-4/Exercise/Mini-Database/database-schema-example.png" alt="Database Schema Example" height="150"/>
+      <img src="./database-schema-example.png" alt="Database Schema Example" height="150"/>
     </td>
     <td>
-      <img src="https://github.com/SRKH/AP-CS-SBU/raw/exercise-4/Exercise/Mini-Database/database-table-example.png" alt="Database Table Example" height="130"/>
+      <img src="./database-table-example.png" alt="Database Table Example" height="130"/>
     </td>
   </tr>
   <tr>

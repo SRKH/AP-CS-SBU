@@ -114,11 +114,11 @@
     <br>
 
 9. ### <a name="INPUT_OUTPUT"></a>INPUT/OUTPUT
-    - Slide: [INPUT_OUTPUT](./slides/Lecture_09.pdf)
+    - Slide: [INPUT/OUTPUT](./slides/Lecture_09.pdf)
     <br>
     
 10. ### <a name="INPUT_OUTPUT"></a>EXCEPTION HANDLING
-    - Slide: [EXCEPTION_HANDLING](./slides/Lecture_10.pdf)
+    - Slide: [EXCEPTION HANDLING](./slides/Lecture_10.pdf)
     <br>
 
 11. ### <a name="INPUT_OUTPUT"></a>STREAMS
@@ -126,7 +126,7 @@
     <br>
     
 12. ### <a name="MULTI_THREADING"></a>MULTI THREADING
-    - Slide: [MULTI-THREADING](./slides/Lecture_12.pdf)
+    - Slide: [MULTI THREADING](./slides/Lecture_12.pdf)
     <br>
    
     

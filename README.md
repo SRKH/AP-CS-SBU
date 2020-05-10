@@ -46,6 +46,9 @@
   7. Lecture 7: [Objects and Classes](#OBJECTS-and-CLASSES)
   8. Lecture 8: [Inheritance](#INHERITANCE)
   9. Lecture 9: [Input/Output](#INPUT_OUTPUT)
+  10. Lecture 10: [EXCEPTION HANDLING](#EXCEPTION_HANDLING)
+  11. Lecture 11: [STREAMS](#STREAMS)
+  12. Lecture 12: [MULTI-THREADING](#MULTI_THREADING)
   <br>
   ...
 
@@ -112,6 +115,22 @@
 
 9. ### <a name="INPUT_OUTPUT"></a>INPUT/OUTPUT
     - Slide: [INPUT_OUTPUT](./slides/Lecture_09.pdf)
+    <br>
+    
+10. ### <a name="INPUT_OUTPUT"></a>INPUT/OUTPUT
+    - Slide: [EXCEPTION_HANDLING](./slides/Lecture_10.pdf)
+    <br>
+
+11. ### <a name="INPUT_OUTPUT"></a>INPUT/OUTPUT
+    - Slide: [STREAMS](./slides/Lecture_11.pdf)
+    <br>
+    
+12. ### <a name="MULTI_THREADING"></a>INPUT/OUTPUT
+    - Slide: [MULTI-THREADING](./slides/Lecture_12.pdf)
+    <br>
+   
+    
+    
 
 ## Exercises
 

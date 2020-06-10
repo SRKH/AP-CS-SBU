@@ -16,7 +16,7 @@ Related services are content-displaying hosting services (i.e., video and image)
 5. (extra point) User should be able to share files*
 6. (extra point) your app should provide a content version manager for the text files and show changes in text file versions* 
 
-  * : **User interface required**
+* : **User interface required**
 
 #### Notes
 - You are free to use JavaFX

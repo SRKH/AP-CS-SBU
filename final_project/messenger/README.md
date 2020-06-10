@@ -17,7 +17,7 @@ Your app should support file sharing
 6. (extra point) your app must be able to show images in the user interface
 7. (extra point) your app must provide multi administrator for channels
 
-  * : **User interface required**
+* : **User interface required**
   
 ### Notes
 - You are free to use JavaFX

@@ -156,7 +156,7 @@
 
 ## Final Project
 1. [File Hosting Service](./final_project/file_hosting_service/README.md)
-2. [Messenger](./final_project/messanger/README.md)
+2. [Messenger](final_project/messenger/README.md)
 ## Class Time and Location
 Sundays and Tuesdays, 10:00-12:00 AM (Spring 2020)
 

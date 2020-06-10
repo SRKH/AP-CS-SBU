@@ -78,8 +78,8 @@
 
 1. ### <a name="Algorithm-and-Pseudocode"></a>Algorithm and Pseudocode
 
-- Slide: [Algorithm and  Pseudocode ](./slides/Lecture_1.pdf)
-<br>
+    - Slide: [Algorithm and  Pseudocode ](./slides/Lecture_1.pdf)
+    <br>
 
 2. ### <a name="variables"></a>  Variables
   

@@ -7,7 +7,7 @@ Related services are content-displaying hosting services (i.e., video and image)
 
 ## Component 
 
-### Client
+## Client
 
 1. Your app must be able to monitor user-defined folders for change and send changed files to the server .
 2. Your app must provide a way to list and load data (files & folders) from the server to the client *.
@@ -29,7 +29,7 @@ Related services are content-displaying hosting services (i.e., video and image)
 - https://examples.javacodegeeks.com/desktop-java/swing/java-swing-form-example/
 
 
-### Server
+## Server
 
 1. Your server must provide a way to authenticate users
 2. Your server must support multi-user simultaneously (Multi-Thread Server)

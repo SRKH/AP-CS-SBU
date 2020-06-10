@@ -49,11 +49,14 @@
   10. Lecture 10: [EXCEPTION HANDLING](#EXCEPTION_HANDLING)
   11. Lecture 11: [STREAMS](#STREAMS)
   12. Lecture 12: [MULTI-THREADING](#MULTI_THREADING)
+  13. Lecture 13: [Internet Programming](#Internet_Programming)
+  14. Lecture 14: [Graphical User Interface](#Graphical_User_Interface)
+  15. Lecture 15: [Relational Databases](#Relational_DataBases)
   <br>
   ...
 
 - [Class Time and Location](#Class-Time-and-Location)
-
+ 
 - [Exercises](#exercises)
 
 - [Projects](#Projects)
@@ -127,6 +130,18 @@
     
 12. ### <a name="MULTI_THREADING"></a>MULTI THREADING
     - Slide: [MULTI THREADING](./slides/Lecture_12.pdf)
+    <br>
+    
+13. ### <a name="Internet_Programming"></a>Internet Programming
+    - Slide: [Internet Programming](./slides/Lecture_13.pdf)
+    <br>
+    
+14. ### <a name="Graphical_User_Interface"></a>Graphical User Interface
+    - Slide: [Graphical User Interface](./slides/Lecture_14.pdf)
+    <br>
+    
+15. ### <a name="Relational Databases"></a>Relational Databases
+    - Slide: [Relational Databases](./slides/Lecture_15.pdf)
     <br>
    
     

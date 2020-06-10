@@ -59,7 +59,7 @@
  
 - [Exercises](#exercises)
 
-- [Final Project](#Final Project)
+- [Final Project](#Final_Project)
 
 
 ## Textbooks
@@ -154,10 +154,12 @@
 4. [Mini Database](./Exercise/Mini-Database)
 
 
-## Final Project
+## <a name="Final_Project"></a> Final Project
 1. [File Hosting Service](./final_project/file_hosting_service/README.md)
 2. [Messenger](final_project/messenger/README.md)
 3. [Online Multi-player Snake](./final_project/online_multi_player_snake/README.md)
+
+
 ## Class Time and Location
 Sundays and Tuesdays, 10:00-12:00 AM (Spring 2020)
 

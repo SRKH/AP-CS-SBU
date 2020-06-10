@@ -81,13 +81,12 @@
 - Slide: [Algorithm and  Pseudocode ](./slides/Lecture_1.pdf)
 <br>
 
-### <a name="variables"></a> 2. Variables
+2. ### <a name="variables"></a>  Variables
   
    - Slide: [Variables ](./slides/Lecture_02.pdf)  
    <br>
  
 3. ### <a name="The-if-Statement"></a>The if Statement
-
 
    - Slide: [The if Statement](./slides/Lecture_03.pdf)  <br>
     <br>

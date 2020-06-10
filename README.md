@@ -59,7 +59,7 @@
  
 - [Exercises](#exercises)
 
-- [Projects](#Projects)
+- [Final Project](#Final Project)
 
 
 ## Textbooks
@@ -154,8 +154,10 @@
 4. [Mini Database](./Exercise/Mini-Database)
 
 
+## Final Project
+1. [File Hosting Service](./final_project/file_hosting_service/README.md)
+
 ## Class Time and Location
 Sundays and Tuesdays, 10:00-12:00 AM (Spring 2020)
 
-## Projects
-Projects are programming assignments that cover the topic of this course. 
+

@@ -155,6 +155,7 @@
 
 
 ## <a name="Final_Project"></a> Final Project
+Choose one of the following projects 
 1. [File Hosting Service](./final_project/file_hosting_service/README.md)
 2. [Messenger](final_project/messenger/README.md)
 3. [Online Multi-player Snake](./final_project/online_multi_player_snake/README.md)

@@ -4,6 +4,9 @@ You should implement a messenger with
 private chat, group chat, and channels
 Your app should support file sharing
 
+## Deadline
+
+**Wednesday, Tir 18, 1399**
 
 ## Component
 

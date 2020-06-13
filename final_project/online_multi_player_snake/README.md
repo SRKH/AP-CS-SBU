@@ -1,5 +1,9 @@
 # Online Multi-player Snake Game
 
+## Deadline
+
+**Wednesday, Tir 18, 1399**
+
 ## Rules
 
 - Snakes become longer by eating apples.
